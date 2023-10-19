@@ -1,16 +1,16 @@
 # LinuxCheatSheet
 
-## Install xbindkeys
+#### Install xbindkeys
 ```
 sudo apt-get install xbindkeys xvkbd
 ```
   
-### Open config in sublime
+#### Open config in sublime
 ```
 subl ~/.xbindkeysrc
 ```
   
-### Copy paste into file
+#### Copy paste into file
 ```
 "xvkbd -xsendevent -text '@'"
     Control+Alt + 2
@@ -35,7 +35,7 @@ subl ~/.xbindkeysrc
     Control+Alt + 0
 ```
 
-### Update xbindkeys
+#### Update xbindkeys
 ```
 xbindkeys -f .xbindkeysrc 
 ```
