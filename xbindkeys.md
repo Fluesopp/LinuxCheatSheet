@@ -1,5 +1,6 @@
 # xBindKeys
-
+Create binds so you can press CTRL + ALT + 2 to get @
+  
 #### Install xbindkeys
 ```
 sudo apt-get install xbindkeys xvkbd
