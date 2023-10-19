@@ -39,4 +39,3 @@ subl ~/.xbindkeysrc
 ```
 xbindkeys -f .xbindkeysrc 
 ```
-
